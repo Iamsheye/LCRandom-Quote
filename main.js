@@ -127,7 +127,7 @@ const randomAPI = [
   {
     author: "Naguib Mahfouz",
     quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
-  },
+  }
 ];
 
 btn.addEventListener("click", () => {
